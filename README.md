@@ -26,3 +26,8 @@ The output is a pdf with 2 columns and 45 rows per page. Once the program closes
   - You may view how many characters you have remaining on your Azure account in the overview for your translator resource
  - the config file is used to fill the fields with their previously entered information
   - do not edit, delete, or rename it
+  
+  ###Future Update Plans/Ideas
+   - Allow for better translations
+    - This will include giving a better dictionary translation, as opposed to a more simple translation
+   - Find a free or high yield API for large translations
