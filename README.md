@@ -28,6 +28,7 @@ The output is a pdf with 2 columns and 45 rows per page. Once the program closes
   - do not edit, delete, or rename it
   
 ### Future Update Ideas/Plans
-   - Allow for better translations
-    - This will include giving a better dictionary translation, as opposed to a more simple translation
-   - Find a free or high yield API for large translations
+ - Allow for better translations
+  - This will include giving a better dictionary translation, as opposed to a more simple translation
+ - Find a free or high yield API for large translations
+ - Further comment code
